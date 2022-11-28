@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/elma7y/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elma7y&show_icons=true&theme=merko&card_width=700" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elma7y&show_icons=true&theme=merko&card_width=750" />
 </a>
 <a href="https://github.com/elma7y/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elma7y&layout=compact&card_width=700" />
