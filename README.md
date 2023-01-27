@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sameh123soliman" target="blank"><img src="https://img.shields.io/twitter/follow/sameh123soliman?logo=twitter&style=for-the-badge" alt="sameh123soliman" /></a> </p>
 
-- 🔭 I’m currently working on **angular-dashboard**
+- 🔭 I’m currently working on **Angular-Dashboard**
 
 - 💬 Ask me about **Angular**
 
