@@ -114,19 +114,6 @@ I enjoy working on clean UI systems, reusable component libraries, authenticatio
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Sameh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elma7y&show_icons=true&theme=merko&hide_border=true)
-
-![Sameh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elma7y&layout=compact&theme=merko&hide_border=true)
-
-![Sameh's GitHub Streak](https://streak-stats.demolab.com?user=elma7y&theme=dark&hide_border=true)
-
-</div>
-
----
 
 ### ⚡ Fun Fact
 
