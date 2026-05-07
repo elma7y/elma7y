@@ -118,7 +118,7 @@ I enjoy working on clean UI systems, reusable component libraries, authenticatio
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=elma7y&amp;show_icons=true&amp;theme=merko&amp;locale=en&amp;hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=SamehSoliman&show_icons=true&theme=dark" alt="Sameh's GitHub Stats" 
     width="700" 
     alt="Sameh Soliman GitHub Stats" 
   />
