@@ -57,17 +57,17 @@ I enjoy working on clean UI systems, reusable component libraries, authenticatio
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/sameh123soliman" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameh123soliman" height="30" width="40" />
+  <a href="https://twitter.com/sameh123soliman" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/sameh-soliman-b484961a2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameh-soliman-b484961a2" height="30" width="40" />
+  <a href="https://linkedin.com/in/sameh-soliman-b484961a2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/sameh.elma7y" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameh.elma7y" height="30" width="40" />
+  <a href="https://fb.com/sameh.elma7y" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/el.ma7y" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el.ma7y" height="30" width="40" />
+  <a href="https://instagram.com/el.ma7y" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -116,16 +116,28 @@ I enjoy working on clean UI systems, reusable component libraries, authenticatio
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elma7y&show_icons=true&theme=merko&locale=en&layout=compact" width="700" alt="elma7y" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=elma7y&amp;show_icons=true&amp;theme=merko&amp;locale=en&amp;hide_border=true" 
+    width="700" 
+    alt="Sameh Soliman GitHub Stats" 
+  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elma7y&show_icons=true&theme=merko&locale=en" width="700" alt="elma7y" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elma7y&amp;layout=compact&amp;theme=merko&amp;hide_border=true" 
+    width="700" 
+    alt="Sameh Soliman Top Languages" 
+  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elma7y&theme=dark" width="700" alt="elma7y" />
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=elma7y&amp;theme=dark&amp;hide_border=true" 
+    width="700" 
+    alt="Sameh Soliman GitHub Streak" 
+  />
 </p>
 
 ---
